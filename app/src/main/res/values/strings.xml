@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Marg-Disha</string>
+    <string name="register_here">Register Here!</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="marg_disha">MARG-DISHA</string>
+    <string name="marg_disha_1">Marg-Disha</string>
+    <string name="accessibility_place_checker">Accessibility Place Checker</string>
+    <string name="faqs">FAQs</string>
+    <string name="complaints">Complaints</string>
+    <string name="accessible_place_registration">Accessible Place Registration</string>
+    <string name="null_3">null</string>
+    <string name="null_2">null</string>
+    <string name="null_1">null</string>
+    <string name="null_4">null</string>
+    <string name="password_1">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="_2">REGISTER</string>
+    <string name="public_toilets">Public Toilets</string>
+    <string name="wheelchair">Wheelchair</string>
+    <string name="lifts">Lifts</string>
+    <string name="handrails">Handrails</string>
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="add_image">Add image</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="button">Button</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="button_1">Button</string>
+    <string name="wheelchair_accessibility">Wheelchair Accessibility</string>
+    <string name="handrails_2">Handrails</string>
+    <string name="_1lifts">Lifts</string>
+    <string name="placename">Placename</string>
+    <string name="submit">Submit</string>
+    <string name="name_of_place">Name of Place</string>
+    <string name="category">Category</string>
+    <string name="latitude_4">Latitude</string>
+    <string name="longitude_2">Longitude</string>
+    <string name="accessibility_features">Accessibility features</string>
+    <string name="ramps">Ramps</string>
+    <string name="category1">Category</string>
+    <string name="place1">Place</string>
+    <string name="place">place</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521128103155",
+    "project_id": "marg-disha-new-d2a38",
+    "storage_bucket": "marg-disha-new-d2a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521128103155:android:91f1fe8da8d0fb59dc7b86",
+        "android_client_info": {
+          "package_name": "com.example.marg_disha_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521128103155-3hcj7pumc7i4knntiv7ps6uo21hsd31s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlVp4alnQ0v94REe3zSSvcLIzatvbEYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521128103155-3hcj7pumc7i4knntiv7ps6uo21hsd31s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
